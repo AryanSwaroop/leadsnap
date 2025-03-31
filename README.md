@@ -1,4 +1,3 @@
-Below is a sample `README.md` that you can use as a starting point. Adjust any details that you know, and mark the remaining as TBD (to be determined) as needed:
 
 ---
 
