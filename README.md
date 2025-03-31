@@ -5,7 +5,7 @@
 # LeadSnap
 
 ## Repository Link
-[GitHub Repository](https://github.com/yourusername/leadsnap)  
+[GitHub Repository](https://github.com/AryanSwaroop/leadsnap)  
 *Note: Replace with your actual repository URL.*
 
 ## Project Overview
